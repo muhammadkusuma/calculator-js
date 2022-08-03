@@ -1,0 +1,80 @@
+.box {
+  border: 2px solid black;
+  width: 500px;
+  margin: auto;
+  padding: 20px 10px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+.box .hasil {
+  border: 1px solid gray;
+  height: 50px;
+  font-size: 30px;
+  text-align: right;
+  padding: 10px 10px;
+  border-radius: 20px;
+  width: 450px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  background-color: rgb(172, 172, 172);
+}
+.box .bilangan {
+  margin-top: 20px;
+}
+.box .bilangan .btn-bilangan {
+  width: 100px;
+  height: 70px;
+  font-size: 25px;
+  margin-bottom: 10px;
+  background-color: rgba(128, 128, 128, 0.281);
+  border: none;
+  border-radius: 20px;
+}
+.box .bilangan .number0 {
+  width: 310px;
+  height: 50px;
+  font-size: 25px;
+  background-color: rgba(128, 128, 128, 0.281);
+  border: none;
+  border-radius: 20px;
+}
+.box .operator {
+  margin-top: 20px;
+}
+.box .operator .btn-operator {
+  width: 80px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgba(255, 255, 0, 0.329);
+  margin-bottom: 10px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border-radius: 10px;
+  border: none;
+}
+.box .operator .clear {
+  background-color: rgba(255, 0, 0, 0.329);
+}
+.box .operator .pangkat {
+  width: 80px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgba(255, 255, 0, 0.329);
+  margin-bottom: 10px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border-radius: 10px;
+  border: none;
+}
+.box .operator .sisa {
+  width: 80px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgba(255, 255, 0, 0.329);
+  margin-bottom: 10px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border-radius: 10px;
+  border: none;
+}/*# sourceMappingURL=style.css.map */
