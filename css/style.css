@@ -15,9 +15,9 @@
   border-radius: 20px;
   width: 450px;
   font-weight: bold;
-  color: white;
+  color: rgb(21, 255, 0);
   border: none;
-  background-color: rgb(172, 172, 172);
+  background-color: rgb(230, 230, 230);
 }
 .box .bilangan {
   margin-top: 20px;
